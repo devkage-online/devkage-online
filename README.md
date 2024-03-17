@@ -1,6 +1,6 @@
 ### Halo kawan semuanya 👋
 
-Repository di github ini merupakan wadah untuk kode yang dipakai pada konten di (https://devkage.online)[https://devkage.online].
+Repository di github ini merupakan wadah untuk kode yang dipakai pada konten di [https://devkage.online](https://devkage.online).
 <!--
 **devkage-online/devkage-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
